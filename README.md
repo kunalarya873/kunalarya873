@@ -75,12 +75,9 @@ Whether it's about Development or Mechanical Engineering, I'm here to share insi
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/kunalarya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kunalarya" /></a><a href="https://ko-fi.com/https://ko-fi.com/kunalarya"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/kunalarya" /></a></p><br><br>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=kunalarya873&show_icons=true&locale=en" alt="kunalarya873" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalarya873&show_icons=true&locale=en&layout=compact" alt="kunalarya873" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalarya873&show_icons=true&locale=en" alt="kunalarya873" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalarya873&" alt="kunalarya873" /></p>
-
 
 Find me on [LinkedIn](https://www.linkedin.com/in/kunal-arya-9ba4b722a) or shoot me an email at kunlarya873@gmail.com. I'm always open to connecting with fellow coders.
 
