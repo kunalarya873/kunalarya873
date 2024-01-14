@@ -38,6 +38,8 @@ Whether it's about Development or Mechanical Engineering, I'm here to share insi
 
 <p align="left"> <a href="https://twitter.com/kunalarya873" target="blank"><img src="https://img.shields.io/twitter/follow/kunalarya873?logo=twitter&style=for-the-badge" alt="kunalarya873" /></a> </p>
 
+
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -79,10 +81,4 @@ Whether it's about Development or Mechanical Engineering, I'm here to share insi
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalarya873&show_icons=true&locale=en&layout=compact" alt="kunalarya873" /></p>
 
-Find me on [LinkedIn](https://www.linkedin.com/in/kunal-arya-9ba4b722a) or shoot me an email at kunlarya873@gmail.com. I'm always open to connecting with fellow coders.
 
-## 😄 Fun Fact
-
-I once built a coffee-making robot that became the office MVP, churning out caffeinated masterpieces with a single click! ☕️🤖
-
-Ready to code the future together? Let's turn lines of code into innovations! 🚀💻
